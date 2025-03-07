@@ -7,23 +7,23 @@
 
 # CPU Cooler
 
-1. $40 [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
+1. $40 - [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
 
 # Motherboard
 
-1. $133 [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
-2. $129 [link](https://www.newegg.com/asrock-b650m-pro-rs-micro-atx-amd-b650-am5/p/N82E16813162130)
+1. $133 - [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
+2. $129 - [link](https://www.newegg.com/asrock-b650m-pro-rs-micro-atx-amd-b650-am5/p/N82E16813162130)
 
 # RAM
 
-1. $91 (white) [link](https://www.ebay.com/itm/295893297207?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JE06XY0JVJ1JBA2EW&hash=item44e49d6837:g:kDYAAOSwdr9k45s0&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1dMosTUj803iESmh658AaQB%2Be9Lwge4io8wiJmnZohBlFXKjh6fUFyxy2paVuutxKqQWrjbnDpYpbQvXBJL05ISjnul4T8xNGDx2gJ79mJDsMXuDsxz3nM70%2BQIkNeh%2Bpbrnat7%2B2cpJBRtfPStvUGizG6yrRKSdqyY1YoHc3tIidk7dupLx7hOCfYOz9G%2FXVG%2BcIEzOG2466EefmEdhgWZkJwC%2BQb16%2BCHhZum8iNR96nom9ocpXO%2FXrwGu7KRs1Fy26aqI%2BkTWByz2Y%2BHHkR2V2h%2F9xddIKw2Q6%2Fs8erz2sLzKgzjmpjbvVaQ4XASMIeYFThYeQdjfh72wUhsl4G8%7Ctkp%3ABk9SR7CR44-uZQ)
-2. $86 (black) [link](https://www.ebay.com/itm/387393455373?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JAHF1SEG3EA3SRHBT&hash=item5a3273050d:g:7h8AAOSwuilm6Aq4&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cd2ll9hcMHV%2BPjRwS%2FUEyQPEqh8xtCkr6S8IhUqEgjuAcuJv7%2FHwlXj%2BfX0sTNE3fDEaXNgH3%2Bcavrd8DKLLnYom%2B0FGhvSfbbsAzYR%2B5HDsk5TQTsn8sDy1825TkipppowkV6N3%2B41iGB82JoIZwJcdtfSyBd3qLSzFp7GB7EdcFsQ6kxhkSmgWsvwtRNeJ21NDVPhkr0dliMb5EyGe47WmYRgzhoKfnMxrU6UtBmp3uOEbYCwFhauJJEXo0HXcPpLjK3NMXchEvBEEToRXnfArQEdUdvD9AD8O0cjTJHmw%3D%3D%7Ctkp%3ABk9SR7CR44-uZQ)
-3. $82 [link](https://www.newegg.com/team-32gb-ddr5-6000/p/N82E16820985237)
+1. $91 (white) - [link](https://www.ebay.com/itm/295893297207?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JE06XY0JVJ1JBA2EW&hash=item44e49d6837:g:kDYAAOSwdr9k45s0&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1dMosTUj803iESmh658AaQB%2Be9Lwge4io8wiJmnZohBlFXKjh6fUFyxy2paVuutxKqQWrjbnDpYpbQvXBJL05ISjnul4T8xNGDx2gJ79mJDsMXuDsxz3nM70%2BQIkNeh%2Bpbrnat7%2B2cpJBRtfPStvUGizG6yrRKSdqyY1YoHc3tIidk7dupLx7hOCfYOz9G%2FXVG%2BcIEzOG2466EefmEdhgWZkJwC%2BQb16%2BCHhZum8iNR96nom9ocpXO%2FXrwGu7KRs1Fy26aqI%2BkTWByz2Y%2BHHkR2V2h%2F9xddIKw2Q6%2Fs8erz2sLzKgzjmpjbvVaQ4XASMIeYFThYeQdjfh72wUhsl4G8%7Ctkp%3ABk9SR7CR44-uZQ)
+2. $86 (black) - [link](https://www.ebay.com/itm/387393455373?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JAHF1SEG3EA3SRHBT&hash=item5a3273050d:g:7h8AAOSwuilm6Aq4&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cd2ll9hcMHV%2BPjRwS%2FUEyQPEqh8xtCkr6S8IhUqEgjuAcuJv7%2FHwlXj%2BfX0sTNE3fDEaXNgH3%2Bcavrd8DKLLnYom%2B0FGhvSfbbsAzYR%2B5HDsk5TQTsn8sDy1825TkipppowkV6N3%2B41iGB82JoIZwJcdtfSyBd3qLSzFp7GB7EdcFsQ6kxhkSmgWsvwtRNeJ21NDVPhkr0dliMb5EyGe47WmYRgzhoKfnMxrU6UtBmp3uOEbYCwFhauJJEXo0HXcPpLjK3NMXchEvBEEToRXnfArQEdUdvD9AD8O0cjTJHmw%3D%3D%7Ctkp%3ABk9SR7CR44-uZQ)
+3. $82 - [link](https://www.newegg.com/team-32gb-ddr5-6000/p/N82E16820985237)
 
 # SSD
 
-1. $60 (amazon) [link](https://www.amazon.com/dp/B0BBWH1R8H?th=1&linkCode=gs2&tag=pcp0f-21)
-2. $51 (ebay) [link](https://www.ebay.com/itm/276904472578?_skw=Kingston+NV2+1+TB+M.2-2280+PCIe+4.0+X4+NVME+Solid+State+Drive&epid=17057003522&itmmeta=01JNRG76Q096D6CZSRGM5XQKA2&hash=item4078caf002:g:CFwAAOSw6jllrt6W&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1c%2BEWW8TgEBEbO%2BR%2BElwtysDAPDTFQvayD3as%2BMk%2BEgCK5Gbokwi0OaaBUD0i%2BNQawGVO0BMzhRErDzEUA%2B%2FBlYoBbGT95hIJcEdKLFuFixIdAPUMso%2F51dJhoDB6AeJ4iBNay6fzSm%2FFI2tw9wXwC4wDhrw3xicviaFkzVe%2Bzd2WS8zbH2r%2BPviIHjqPCD4x%2FL3NHlN1CdZDgXB%2FIZ%2F2kZrKIPElpbnEtGQPkXbtZl9KhIf0KdiacHZhjWUjz3Ca3zX3NVcjiLohx9cC%2BwTNeXLXV5me6Xf8b2h7qLfoR2Dcxb%2FGAdxUM%2B5Fj1Eiqyd7w%3D%7Ctkp%3ABk9SR9rrnJCuZQ)
+1. $60 (amazon) - [link](https://www.amazon.com/dp/B0BBWH1R8H?th=1&linkCode=gs2&tag=pcp0f-21)
+2. $51 (ebay) - [link](https://www.ebay.com/itm/276904472578?_skw=Kingston+NV2+1+TB+M.2-2280+PCIe+4.0+X4+NVME+Solid+State+Drive&epid=17057003522&itmmeta=01JNRG76Q096D6CZSRGM5XQKA2&hash=item4078caf002:g:CFwAAOSw6jllrt6W&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1c%2BEWW8TgEBEbO%2BR%2BElwtysDAPDTFQvayD3as%2BMk%2BEgCK5Gbokwi0OaaBUD0i%2BNQawGVO0BMzhRErDzEUA%2B%2FBlYoBbGT95hIJcEdKLFuFixIdAPUMso%2F51dJhoDB6AeJ4iBNay6fzSm%2FFI2tw9wXwC4wDhrw3xicviaFkzVe%2Bzd2WS8zbH2r%2BPviIHjqPCD4x%2FL3NHlN1CdZDgXB%2FIZ%2F2kZrKIPElpbnEtGQPkXbtZl9KhIf0KdiacHZhjWUjz3Ca3zX3NVcjiLohx9cC%2BwTNeXLXV5me6Xf8b2h7qLfoR2Dcxb%2FGAdxUM%2B5Fj1Eiqyd7w%3D%7Ctkp%3ABk9SR9rrnJCuZQ)
 
 # Case
 
@@ -32,6 +32,6 @@
 
 # PSU
 
-1. $99 (amazon) [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
-2. 291 GEL (ultra.ge) [link](https://ultra.ge/index.php?route=product/product&path=372&product_id=30613&filter=1259)
+1. $99 (amazon) - [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
+2. 291 GEL (ultra.ge) - [link](https://ultra.ge/index.php?route=product/product&path=372&product_id=30613&filter=1259)
 
