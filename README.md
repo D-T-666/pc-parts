@@ -22,10 +22,13 @@
 
 # SSD
 
-1. $60 (amazon) - [link](https://www.amazon.com/dp/B0BBWH1R8H?th=1&linkCode=gs2&tag=pcp0f-21)
-2. $51 (ebay) - [link](https://www.ebay.com/itm/276904472578?_skw=Kingston+NV2+1+TB+M.2-2280+PCIe+4.0+X4+NVME+Solid+State+Drive&epid=17057003522&itmmeta=01JNRG76Q096D6CZSRGM5XQKA2&hash=item4078caf002:g:CFwAAOSw6jllrt6W&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1c%2BEWW8TgEBEbO%2BR%2BElwtysDAPDTFQvayD3as%2BMk%2BEgCK5Gbokwi0OaaBUD0i%2BNQawGVO0BMzhRErDzEUA%2B%2FBlYoBbGT95hIJcEdKLFuFixIdAPUMso%2F51dJhoDB6AeJ4iBNay6fzSm%2FFI2tw9wXwC4wDhrw3xicviaFkzVe%2Bzd2WS8zbH2r%2BPviIHjqPCD4x%2FL3NHlN1CdZDgXB%2FIZ%2F2kZrKIPElpbnEtGQPkXbtZl9KhIf0KdiacHZhjWUjz3Ca3zX3NVcjiLohx9cC%2BwTNeXLXV5me6Xf8b2h7qLfoR2Dcxb%2FGAdxUM%2B5Fj1Eiqyd7w%3D%7Ctkp%3ABk9SR9rrnJCuZQ)
+1TB Kingston NV3 
+
+1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
 
 # Case
+
+Lian Li A3-mATX
 
 1. $75 - [link](https://www.ebay.com/itm/305715718284?_skw=lian+li+a3-matx+brown&itmmeta=01JNHBVFJ40S8M4ND3TBS7KRNW&hash=item472e13a88c:g:WKAAAOSws5Zms0-t&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ffIqi5hiwr4rW5z1PkfJy4hzJElaFdjJWJ8kfW1PS%2FjCkrQIHYOKxwGAv%2FOyiSJQpPYt0xKjjDvo8R%2FitBk3SMv7LcP3PvvYjQ8679jfFfKTyn2oqFMy1nHyiJppOOlASRLcmcNo6ykHzhbNlGU%2B87%2BjWK6NTvlV3LuwH5ekxBK8vBNwsuiaAVWSWfAcltniWa4RafDcCjoCMvrpoITpM48rWsR4yhbBVyoGfwz0YoELZs7y%2FkhOhSKny8zvyATcCrc7zPnRvdrNdjTYXEXBmAgv60E4zdqSnWNqpXBkCPGA%3D%3D%7Ctkp%3ABFBMnPntq6xl)
 2. $72 - [link](https://www.newegg.com/p/2AM-000Z-000D4)
