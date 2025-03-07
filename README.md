@@ -33,4 +33,4 @@
 # PSU
 
 1. $99 (amazon) - [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
-
+2. 320 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123608)
