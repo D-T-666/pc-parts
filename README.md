@@ -33,5 +33,4 @@
 # PSU
 
 1. $99 (amazon) - [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
-2. 291 GEL (ultra.ge) - [link](https://ultra.ge/index.php?route=product/product&path=372&product_id=30613&filter=1259)
 
