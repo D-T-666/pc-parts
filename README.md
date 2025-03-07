@@ -5,10 +5,6 @@
 3. #305 (open box) - [link](https://www.ebay.com/itm/396202789111?_skw=ryzen+9+7900x&epid=22057005109&itmmeta=01JNR4EPBJPHP2NQHF2WPR67NM&hash=item5c3f86c8f7:g:OFMAAOSwE8FnrDAj&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1eASTAeFusUYoxAlSkuWMK6ZapttomqnCqpSbg7GXAmHgFD0eeEJOvsxdj6KrCjlyrYvWRt54z0FS8wuFp9AqI4UAJaTxjEMxcpChH67vCpiusOHoSEXp%2BQWGup0t%2Fz42MI7CXiavAss4wB%2FjHHr8ZP9%2BLKrsdA8ZICYsX5bwkvhrsjSgX%2FVCj6Mf1lgfHktiKY0vwdfkcSE9KnqTgPhMewmKhTtf95GllpOOpiN3aXDYT7GPi4zDP%2B3hfx0kAB7M8%3D%7Ctkp%3ABk9SR_jluoSuZQ)
 4. $299 (unlocked?) - [link](https://www.ebay.com/itm/266595910623?_skw=ryzen+9+7900x&epid=22057005109&itmmeta=01JNR4EPBJCH5N43FPE32J3VBP&hash=item3e125ac3df:g:KVwAAOSwhelkVeg0&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dSgPRa5sWU3qOfLjXzec1vu7JrjLz3zueaEMWNSZzJiA2nlkmAJireUkVCZv%2BFIUmRlhY6ZzA17NxYhll%2Bz9Hlwb7vn4Ea1PGffTSk7vcjZOFh%2Bwd0NfSrmt2Aua1M1i6scy4qlqFrnwdsxUAX%2BOHn32SUynUuq9cWrmxIwKnJYhMsceZzGYRS%2Bt9qjWxjUd1i9fDIgFTsF2VLu9aofzKQ%2B5LzgCtsp0t7q4ldH9Gt78BGdaW51Fg89TjEnQiGED7X5VvK6NrhKDZ83f5mW7G1net9F6RQGCuDXJBF8bXi5w%3D%3D%7Ctkp%3ABk9SR_jluoSuZQ)
 
-# CPU Cooler
-
-1. $40 - [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
-
 # Motherboard
 
 1. $133 - [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
@@ -20,12 +16,6 @@
 2. $86 (black) - [link](https://www.ebay.com/itm/387393455373?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JAHF1SEG3EA3SRHBT&hash=item5a3273050d:g:7h8AAOSwuilm6Aq4&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cd2ll9hcMHV%2BPjRwS%2FUEyQPEqh8xtCkr6S8IhUqEgjuAcuJv7%2FHwlXj%2BfX0sTNE3fDEaXNgH3%2Bcavrd8DKLLnYom%2B0FGhvSfbbsAzYR%2B5HDsk5TQTsn8sDy1825TkipppowkV6N3%2B41iGB82JoIZwJcdtfSyBd3qLSzFp7GB7EdcFsQ6kxhkSmgWsvwtRNeJ21NDVPhkr0dliMb5EyGe47WmYRgzhoKfnMxrU6UtBmp3uOEbYCwFhauJJEXo0HXcPpLjK3NMXchEvBEEToRXnfArQEdUdvD9AD8O0cjTJHmw%3D%3D%7Ctkp%3ABk9SR7CR44-uZQ)
 3. $82 - [link](https://www.newegg.com/team-32gb-ddr5-6000/p/N82E16820985237)
 
-# SSD
-
-1TB Kingston NV3 
-
-1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
-
 # Case
 
 Lian Li A3-mATX
@@ -33,7 +23,17 @@ Lian Li A3-mATX
 1. $75 - [link](https://www.ebay.com/itm/305715718284?_skw=lian+li+a3-matx+brown&itmmeta=01JNHBVFJ40S8M4ND3TBS7KRNW&hash=item472e13a88c:g:WKAAAOSws5Zms0-t&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ffIqi5hiwr4rW5z1PkfJy4hzJElaFdjJWJ8kfW1PS%2FjCkrQIHYOKxwGAv%2FOyiSJQpPYt0xKjjDvo8R%2FitBk3SMv7LcP3PvvYjQ8679jfFfKTyn2oqFMy1nHyiJppOOlASRLcmcNo6ykHzhbNlGU%2B87%2BjWK6NTvlV3LuwH5ekxBK8vBNwsuiaAVWSWfAcltniWa4RafDcCjoCMvrpoITpM48rWsR4yhbBVyoGfwz0YoELZs7y%2FkhOhSKny8zvyATcCrc7zPnRvdrNdjTYXEXBmAgv60E4zdqSnWNqpXBkCPGA%3D%3D%7Ctkp%3ABFBMnPntq6xl)
 2. $72 - [link](https://www.newegg.com/p/2AM-000Z-000D4)
 
+# CPU Cooler
+
+1. $40 - [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
+
 # PSU
 
-1. $99 (amazon) - [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
-2. 320 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123608)
+1. 320 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123608)
+2. $99 (amazon) - [link](https://www.amazon.com/dp/B0BYR1BXC6?tag=pcpapi-20&linkCode=ogi&th=1)
+
+# SSD
+
+1TB Kingston NV3 
+
+1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
