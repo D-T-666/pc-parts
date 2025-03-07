@@ -37,3 +37,9 @@ Lian Li A3-mATX
 1TB Kingston NV3 
 
 1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
+
+---
+
+# Total
+
+(357 + 133 + 91 + 75 + 40) * 2.8 + 320 + 177 = 2445.8
