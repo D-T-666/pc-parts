@@ -74,3 +74,7 @@ approximate cost = 320 GEL
 1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
 
 approximate cost = 177 GEL
+
+---
+
+total = 4877
