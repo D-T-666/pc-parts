@@ -20,7 +20,7 @@ approximate cost = 1260 GEL
 1. $133 - [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
 2. $129 - [link](https://www.newegg.com/asrock-b650m-pro-rs-micro-atx-amd-b650-am5/p/N82E16813162130)
 
-approximate cost = 490 GEL
+approximate cost = 450 GEL
 
 # RAM
 
@@ -37,11 +37,20 @@ Lian Li A3-mATX
 1. $75 - [link](https://www.ebay.com/itm/305715718284?_skw=lian+li+a3-matx+brown&itmmeta=01JNHBVFJ40S8M4ND3TBS7KRNW&hash=item472e13a88c:g:WKAAAOSws5Zms0-t&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ffIqi5hiwr4rW5z1PkfJy4hzJElaFdjJWJ8kfW1PS%2FjCkrQIHYOKxwGAv%2FOyiSJQpPYt0xKjjDvo8R%2FitBk3SMv7LcP3PvvYjQ8679jfFfKTyn2oqFMy1nHyiJppOOlASRLcmcNo6ykHzhbNlGU%2B87%2BjWK6NTvlV3LuwH5ekxBK8vBNwsuiaAVWSWfAcltniWa4RafDcCjoCMvrpoITpM48rWsR4yhbBVyoGfwz0YoELZs7y%2FkhOhSKny8zvyATcCrc7zPnRvdrNdjTYXEXBmAgv60E4zdqSnWNqpXBkCPGA%3D%3D%7Ctkp%3ABFBMnPntq6xl)
 2. $72 - [link](https://www.newegg.com/p/2AM-000Z-000D4)
 
+Deep Cool CC560 Limited V2 
+
+1. 130 GEL (pcroom) - [link](https://pcroom.ge/qeisebi/qeisi_Deep_Cool_CC560_Limited_V2_Black?sort=p.price&order=ASC)
+
+Deep Cool CH370 WH White
+
+1. 185 GEL (pcroom) - [link](https://pcroom.ge/qeisebi/qeisi_Deep_Cool_CH370_WH_White_1x120_Fan?filter=10604&price_filter=0%3A850)
+
 approximate cost = 385 GEL
 
 # CPU Cooler
 
-1. $40 - [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
+1. $49 (360) - [link](https://www.ebay.com/itm/306165040086?_skw=Thermalright+Aqua+Elite+360+White+V3&itmmeta=01JNT6TFNVC78HEQRWNW1WPG20&hash=item4748dbc3d6:g:BJ4AAOSwU2xny48J&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eEPyew5hjffvEVZ9WAYty7%2Ffc5Mw3r3BEFfq8guwgpKgLpa7%2FfFbF5ngXuEgwwsVoBEbDShm4mTGHkYilPgFPGvZAk3q%2FYeFtPDw8rDN3FOrkHlaLdUwXo8Z7xJNnsGibZlmvcpN08tK23qvYvK%2BM%2FljQ5b6LRXjeoseLyYLapbAwCJ14TReY3zqCx8EmEizOAFnkrvmnH5%2BnfwwD3hw8xWBkMQZ0%2BebuRNRiKgj%2BL3fxP39AtXFDbsxw1L1FDzfxlwWjkfmYRGB1Ss7iWNOwq%7Ctkp%3ABk9SR4r76cauZQ)
+2. $40 - [link](https://www.ebay.com/itm/306115234877?_skw=Thermalright+Aqua+Elite+V3+66.17+CFM+Liquid+CPU+Cooler&epid=8073563298&itmmeta=01JNRFBDDTCX33EGQES7R5F475&hash=item4745e3cc3d:g:a8AAAOSwDSVnr834&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1dg9gxlc0tZpyQu0uU6VEVHStYCx0lqhA7fLE4xoZSpL5EZo8Czc1AiTuZBSVT%2BM7tRoJZ36vP2WMpzBVZDQ%2FsAOww1xjpprBaeec4FLjA5vopTiqiML2TI4RPFwI8Qqg76qW5ASxsdqMc8kpS%2BQn4Z4BifnWdJJVNWKzDkHY1eW4ygPMh6qJLWDC9KjQPX20hmDkIbEa5oyyHnVnic8pHf7f2twK3gXu4T7Qb8Waw7DQIkfdN%2BHwIgAxM2jrr7QC72itzfa83Vh2N5rh%2BlbnQSOPNZVDpYCeHVHu3FS4qN4g%3D%3D%7Ctkp%3ABk9SR4bXrY-uZQ)
 
 approximate cost = 130 GEL
 
