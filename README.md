@@ -22,6 +22,12 @@ approximate cost = 1260 GEL
 
 approximate cost = 450 GEL
 
+# GPU
+
+1. $539 - [link](https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-R78XTGAMING-OC-16GD/dp/B0CGHQ32S2)
+
+approximate cost = 1880 GEL
+
 # RAM
 
 1. $91 (white) - [link](https://www.ebay.com/itm/295893297207?_skw=T-Create+Expert+32+GB+%282+x+16+GB%29+DDR5-6000&itmmeta=01JNRFRS2JE06XY0JVJ1JBA2EW&hash=item44e49d6837:g:kDYAAOSwdr9k45s0&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1dMosTUj803iESmh658AaQB%2Be9Lwge4io8wiJmnZohBlFXKjh6fUFyxy2paVuutxKqQWrjbnDpYpbQvXBJL05ISjnul4T8xNGDx2gJ79mJDsMXuDsxz3nM70%2BQIkNeh%2Bpbrnat7%2B2cpJBRtfPStvUGizG6yrRKSdqyY1YoHc3tIidk7dupLx7hOCfYOz9G%2FXVG%2BcIEzOG2466EefmEdhgWZkJwC%2BQb16%2BCHhZum8iNR96nom9ocpXO%2FXrwGu7KRs1Fy26aqI%2BkTWByz2Y%2BHHkR2V2h%2F9xddIKw2Q6%2Fs8erz2sLzKgzjmpjbvVaQ4XASMIeYFThYeQdjfh72wUhsl4G8%7Ctkp%3ABk9SR7CR44-uZQ)
