@@ -2,7 +2,7 @@
 
 Ryzen 9 9900x
 
-1. $379 (amazon) - [link](https://www.amazon.com/AMD-RyzenTM-9900X-24-Thread-Processor/dp/B0D6NN87T8?ref_=Oct_d_otopr_d_193870011_7&pd_rd_w=jvIkE&content-id=amzn1.sym.48dedb24-204f-4fb3-a22a-bd005b512d57&pf_rd_p=48dedb24-204f-4fb3-a22a-bd005b512d57&pf_rd_r=AV5ZGQ0WAPDSTHTHH1CQ&pd_rd_wg=DwlCR&pd_rd_r=a5f2d562-ed68-4795-b21f-3f14e4bbab36&pd_rd_i=B0D6NN87T8)
+1. $372 (amazon) - [link](https://www.amazon.com/AMD-RyzenTM-9900X-24-Thread-Processor/dp/B0D6NN87T8?ref_=Oct_d_otopr_d_193870011_7&pd_rd_w=jvIkE&content-id=amzn1.sym.48dedb24-204f-4fb3-a22a-bd005b512d57&pf_rd_p=48dedb24-204f-4fb3-a22a-bd005b512d57&pf_rd_r=AV5ZGQ0WAPDSTHTHH1CQ&pd_rd_wg=DwlCR&pd_rd_r=a5f2d562-ed68-4795-b21f-3f14e4bbab36&pd_rd_i=B0D6NN87T8)
 2. $387 (new) - [link](https://www.ebay.com/itm/305730469239?_skw=ryzen+9+9900x&epid=17070577178&itmmeta=01JNS6PRG00X4WNF3TCWJ12VRE&hash=item472ef4bd77:g:fw0AAOSw0IFmvkpU&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1efhpAcLsoPkb%2Bs1qm28nhtjMtCaVw7fn%2FAb8EaLKZt3ImlYBmTxZ6UsQ89Qun2759toBc9eU347d4uA6X%2FmtssBKFa1G6WaKPHEVF16iPbviGS5RgjrO7eNt6Yot70TA%2B4cD044j6UkwWyT9nqTDDg7hl2K8D4OOtVBmTd5ZQtXDCOrltkG9gNFZOj3BzrLTJRflSHyjX0dDWNie8TmsbfQxj%2B4zNiI5zfPdS1Ei%2BHEnhRmzHaMjYID49vyih0aov9oEV3TmR7UtvURt7GfqaYjbp8RtRshJ5nKsDnstcCkQ%3D%3D%7Ctkp%3ABk9SR5iI26auZQ)
 
 Ryzen 9 7900x
@@ -17,7 +17,7 @@ approximate cost = 1260 GEL
 
 # Motherboard
 
-1. $133 - [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
+1. $122 - [link](https://www.ebay.com/itm/305111421177?_skw=ASRock+B650M+Pro+RS+Micro+ATX+AM5+Motherboard&itmmeta=01JNRFKQE4DCBV2Z6XWF5TASS3&hash=item470a0ed0f9%3Ag%3Apc8AAOSw%7Eu9k8b9f&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cFSbpKE1ANRrQTbSq4njPM2Vr83DQiouqNfdeMvbVfMvf3mZaOplKi2Mmwv6nl3oBlcL94jKMoJ1vdlQ%2B6fxCvUEtHzf9divvZGJAKBweYQXTQ7MVCxd5CcCuCWffSy%2BJQD5Em1APCLxf3KcABn%2Fe14POTiOLyyTpzamDH0MHpOqQkUvk4Gt4DH7%2BaDVtjhFRfZYPtnsxcbsLgBY%2B3lwHDMEaUdONf3P8OxLeM5qrDYVTMldsJXtd7b5EfDYxKL3w%2FhGuqAMHjm3HMscB08mIcximvlEg6MdzwOWrbKFt5%2FBqHzFeb1ULKKhJtUNnp7z5sN%2F70B47%2B7OarR0dQoct5%7Ctkp%3ABk9SR5j3zo-uZQ&LH_ItemCondition=1000)
 2. $129 - [link](https://www.newegg.com/asrock-b650m-pro-rs-micro-atx-amd-b650-am5/p/N82E16813162130)
 
 approximate cost = 450 GEL
@@ -38,6 +38,10 @@ approximate cost = 275 GEL
 
 # Case
 
+Deep Cool CH370 WH White
+
+1. 185 GEL (pcroom) - [link](https://pcroom.ge/qeisebi/qeisi_Deep_Cool_CH370_WH_White_1x120_Fan?filter=10604&price_filter=0%3A850)
+
 Lian Li A3-mATX
 
 1. $75 - [link](https://www.ebay.com/itm/305715718284?_skw=lian+li+a3-matx+brown&itmmeta=01JNHBVFJ40S8M4ND3TBS7KRNW&hash=item472e13a88c:g:WKAAAOSws5Zms0-t&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ffIqi5hiwr4rW5z1PkfJy4hzJElaFdjJWJ8kfW1PS%2FjCkrQIHYOKxwGAv%2FOyiSJQpPYt0xKjjDvo8R%2FitBk3SMv7LcP3PvvYjQ8679jfFfKTyn2oqFMy1nHyiJppOOlASRLcmcNo6ykHzhbNlGU%2B87%2BjWK6NTvlV3LuwH5ekxBK8vBNwsuiaAVWSWfAcltniWa4RafDcCjoCMvrpoITpM48rWsR4yhbBVyoGfwz0YoELZs7y%2FkhOhSKny8zvyATcCrc7zPnRvdrNdjTYXEXBmAgv60E4zdqSnWNqpXBkCPGA%3D%3D%7Ctkp%3ABFBMnPntq6xl)
@@ -46,10 +50,6 @@ Lian Li A3-mATX
 Deep Cool CC560 Limited V2 
 
 1. 130 GEL (pcroom) - [link](https://pcroom.ge/qeisebi/qeisi_Deep_Cool_CC560_Limited_V2_Black?sort=p.price&order=ASC)
-
-Deep Cool CH370 WH White
-
-1. 185 GEL (pcroom) - [link](https://pcroom.ge/qeisebi/qeisi_Deep_Cool_CH370_WH_White_1x120_Fan?filter=10604&price_filter=0%3A850)
 
 approximate cost = 385 GEL
 
@@ -74,9 +74,3 @@ approximate cost = 320 GEL
 1. 177 GEL (yversy) - [link](https://yversy.ge/e-store/detail.php?ELEMENT_ID=123728)
 
 approximate cost = 177 GEL
-
----
-
-# Total
-
-= 3040
